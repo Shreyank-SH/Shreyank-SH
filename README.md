@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**Shreyank-SH/Shreyank-SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Yoooooo
+Shreyank Srinivasan Harisha
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,5 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail - shreyanksh.btech22@rvu.edu.in or linkdin - www.linkedin.com/in/shreyank-srinivasan-harisha
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
 ![IMG_2379](https://github.com/Shreyank-SH/Shreyank-SH/assets/131869365/4dddfd7b-b5d0-4661-9b90-a2991081c967)

@@ -1,7 +1,7 @@
 ### Yoooooo
 Shreyank Srinivasan Harisha
 Here are some ideas to get you started:
-
+Still working on the Below Details
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Gmail - shreyanksh.btech22@rvu.edu.in or linkdin - www.linkedin.com/in/shreyank-srinivasan-harisha
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-![IMG_2379](https://github.com/Shreyank-SH/Shreyank-SH/assets/131869365/4dddfd7b-b5d0-4661-9b90-a2991081c967)
+
